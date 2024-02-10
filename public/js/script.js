@@ -4,14 +4,14 @@ const answers = [
     "Are you really realy sure???",
     "Think again?",
     "Don't believe in second chances?",
-    "Why are you being so cold?",
+    "Why you dey whine me?",
     "Maybe we can talk about it?",
     "I am not going to ask again!",
-    "Ok now this is hurting my feelings!",
+    "Ok now you are fucking with me!",
     "You are now just being mean!",
     "Why are you doing this to me?",
-    "Please give me a chance!",
-    "I am begging you to stop!",
+    "Wait first I will buy you wig!",
+    "Oya now! I will add G guard",
     "Ok, Lets just start over.."
 ]
 
